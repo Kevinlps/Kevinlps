@@ -1,4 +1,4 @@
-### Ola! , sou Kevin Lopes 👋
+### Ola! Eu sou o Kevin Lopes , Bem vindo(a) ao meu GitHub! 👋
 
 
 - 🔭 Apaixonado por tecnologia
