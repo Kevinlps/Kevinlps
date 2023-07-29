@@ -2,7 +2,7 @@
 
 
 - 🔭 Apaixonado por tecnologia
-- 🌱 Estudante Sistemas Para Internet 3/6
+- 🌱 Estudante Sistemas Para Internet 
 <div align="center">
   <a href="https://github.com/Kevinlps">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kevinlps&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
